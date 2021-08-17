@@ -1,0 +1,25 @@
+html, body{
+    background-color: #35495e;
+    color: #eee;
+}
+.app{
+    display: block;
+    text-align: center;
+}
+.count{
+    font-size: 3rem;
+    font-weight: bold;
+}
+button{
+    background-color: rgb(119, 206, 218);
+    border-radius: 20%;
+    border-style: none;
+    padding: 1rem;
+    font-weight: bolder;
+    font-size: 1rem;
+    margin: 0 0.5rem;
+}
+button:hover{
+    cursor: pointer;
+    background-color: rgb(67, 163, 175);
+}
